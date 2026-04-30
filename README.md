@@ -16,6 +16,6 @@ Currently learning programming and contributing to open source. ✨
 
 ---
 
-### 🔥 Streak
+### 🔥 Streak & Contributions
 
 ![Streak](https://streak-stats.demolab.com?user=zhanxn666&theme=light&hide_border=true)
