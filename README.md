@@ -18,5 +18,3 @@ Currently learning Robotics and contributing to open source. ✨
 ### 🔥 Streak & Contributions
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zhanxn666&theme=default&hide_border=true)
-
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=zhanxn666&count_private=true&show_icons=true&theme=default)
