@@ -2,7 +2,6 @@
   <h1>Hi, I'm XiangningZhan 👋</h1>
 </div>
 
-### Who am I
 I am an **AI undergraduate** from Beijing, China.  
 Currently learning Robotics and contributing to open source. ✨
 
