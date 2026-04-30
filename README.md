@@ -1,11 +1,10 @@
-<!-- 顶部头像 + 问候语 -->
 <div align="center">
   <img src="你的头像链接" width="180" style="border-radius: 50%;" />
-  <h1>Hi, I'm <strong>YourName</strong> 👋</h1>
+  <h1>Hi, I'm <strong>XiangningZhan</strong> 👋</h1>
 </div>
 
 ### Who am I
-I am a **Physics undergraduate** from Zhejiang, China. Currently learning programming and contributing to open source. ✨
+I am a **AI undergraduate** from Beijing, China. Currently learning programming and contributing to open source. ✨
 
 ### Overview
 
