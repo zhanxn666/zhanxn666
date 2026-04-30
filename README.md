@@ -4,7 +4,7 @@
 
 ### Who am I
 I am an **AI undergraduate** from Beijing, China.  
-Currently learning programming and contributing to open source. ✨
+Currently learning Robotics and contributing to open source. ✨
 
 ---
 
