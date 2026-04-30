@@ -1,24 +1,23 @@
 <div align="center">
-  <img src="你的头像链接" width="180" style="border-radius: 50%;" />
-  <h1>Hi, I'm <strong>XiangningZhan</strong> 👋</h1>
+  <h1>Hi, I'm XiangningZhan 👋</h1>
 </div>
 
 ### Who am I
-I am a **AI undergraduate** from Beijing, China. Currently learning programming and contributing to open source. ✨
+I am an **AI undergraduate** from Beijing, China.  
+Currently learning programming and contributing to open source. ✨
 
-### Overview
+---
 
-<!-- GitHub Stats 卡片 -->
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![XiangningZhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhanxn666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanxn666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<!-- Streak Stats（最接近你图片里的 Current Streak） -->
+---
+
 ### 🔥 Streak & Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zhanxn666&theme=tokyonight&hide_border=true)
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=zhanxn666&count_private=true&show_icons=true&theme=tokyonight)
